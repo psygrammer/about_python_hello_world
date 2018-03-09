@@ -1,5 +1,5 @@
 about_python_hw_deepmindlab:
-  image: psygrammer/deepmind-lab:0.1
+  image: psygrammer/deepmind-lab:0.2
   ports:
     - "80:80"
     - "8888:8888"
