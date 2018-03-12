@@ -11,3 +11,9 @@
       - https://docs.docker.com/docker-for-windows/install/
     - 도커 툴박스 (버전 낮을 경우)
       - https://docs.docker.com/toolbox/toolbox_install_windows/
+
+
+# 커리큘럼
+
+파트 1과 2는 종료되었습니다.
+* 기존 스터디 자료 - https://github.com/psygrammer/about_python_psychopy
