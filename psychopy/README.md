@@ -10,4 +10,7 @@ http://localhost
 ```
 
 
-# 참고
+# 커리큘럼
+
+파트 1과 2는 종료되었습니다.
+* 기존 스터디 자료 - https://github.com/psygrammer/about_python_psychopy
