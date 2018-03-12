@@ -1,0 +1,12 @@
+about_python_hw_psychopy:
+  image: psygrammer/psychopy:0.1
+  ports:
+    - "80:80"
+    - "8888:8888"
+    - "6006:6006"
+  environment:
+    - VNC_PASSWORD=1111
+    - TZ=Asia/Seoul
+  volumes:
+    - ../:/root/work 
+  tty: true

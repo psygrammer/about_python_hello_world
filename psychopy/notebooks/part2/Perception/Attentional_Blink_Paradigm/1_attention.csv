@@ -1,0 +1,7 @@
+participant, condition, white_letter, x_position, response_white_letter, response_x, RT_1, RT_2
+"1", "experimental_condition", Y, 0, y, 1, 4.0011, 17.4771
+"1", "experimental_condition", Q, 4, q, 1, 5.3458, 3.6523
+participant, condition, white_letter, x_position, response_white_letter, response_x, RT_1, RT_2
+"1", "experimental_condition", S, 0, h, 0, 1.1364, 0.8704
+"1", "experimental_condition", U, 0, b, 0, 0.7799, 0.6339
+"1", "experimental_condition", N, 2, b, 0, 0.6761, 0.6325

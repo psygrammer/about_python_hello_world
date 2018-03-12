@@ -1,0 +1,3 @@
+participant, condition, white_letter, x_position, response_white_letter, response_x
+"0", "experimental_condition", H, 5, h, 0
+"0", "experimental_condition", G, 6, g, 1

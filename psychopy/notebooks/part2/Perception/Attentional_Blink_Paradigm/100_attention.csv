@@ -1,0 +1,3 @@
+participant, condition, white_letter, x_position, response_white_letter, response_x, RT_1, RT_2
+"100", "experimental_condition", F, 6, rshift, 1, 1.4155, 1.8087
+"100", "experimental_condition", V, 6, v, 1, 0.4578, 0.4895

@@ -1,0 +1,7 @@
+independent: color, dependent: error, filter:  
+group, n, mean
+blue, 10, 0.000000
+green, 10, 0.100000
+independent: color, dependent: error, filter:  
+group, n, mean
+blue, 14, 0.000000

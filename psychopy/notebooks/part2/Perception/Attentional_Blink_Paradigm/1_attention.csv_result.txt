@@ -1,0 +1,4 @@
+independent: x_position, dependent: response_x, filter:  
+group, n, mean
+0.0, 1, 1.000000
+4.0, 1, 1.000000
