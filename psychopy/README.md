@@ -50,8 +50,7 @@ http://localhost
 |  1  | 1/13 | (Perception) Attentional Blink Paradigm 							            | 김무성    | [발표자료](https://github.com/psygrammer/about_python_hello_world/blob/master/psychopy/notebooks/part2/Perception/Attentional_Blink_Paradigm/Attentional_Blink_Paradigm.ipynb)  |
 |  2  | 1/27 | (Executive functions ) Go/no go paradigm 							         | 김무성 | [발표자료](https://github.com/psygrammer/about_python_hello_world/blob/master/psychopy/notebooks/part2/ExecutiveFunctions/Go_NoGo_Paradigm/Go_NoGo_Paradigm.ipynb) |
 |  3  | 2/10  | (Perception) Eriksen flanker test     |Y.Lee | [발표자료](https://github.com/psygrammer/about_python_hello_world/blob/master/psychopy/notebooks/part2/Perception/Erikson_Flanker_Test/Erikson_Flanker_Test.ipynb) |
-|  4  | 3/3  | (Memory) Corsi block test     |Y.Lee | [발표자료](
-https://github.com/psygrammer/about_python_hello_world/blob/master/psychopy/notebooks/part2/Memory/CorsiBlockTestMemory/Corsi-Block-Test-Memory.ipynb) |
+|  4  | 3/3  | (Memory) Corsi block test     |Y.Lee | [발표자료](https://github.com/psygrammer/about_python_hello_world/blob/master/psychopy/notebooks/part2/Memory/CorsiBlockTestMemory/Corsi-Block-Test-Memory.ipynb) |
 
 
 <b>파트 1 </b>
