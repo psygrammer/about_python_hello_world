@@ -1,4 +1,6 @@
 # about_python_hello_world
+* DeepMind Lab - https://github.com/psygrammer/about_python_hello_world/tree/master/deepmind-lab
+* PsychoPy - https://github.com/psygrammer/about_python_hello_world/tree/master/psychopy
 
 # 설치 공통
 * Docker 머신
