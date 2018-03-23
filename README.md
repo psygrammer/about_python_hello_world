@@ -1,4 +1,6 @@
 # about_python_hello_world
+* DeepMind Lab - https://github.com/psygrammer/about_python_hello_world/tree/master/deepmind-lab
+* PsychoPy - https://github.com/psygrammer/about_python_hello_world/tree/master/psychopy
 
 # 설치 공통
 * Docker 머신
@@ -11,3 +13,6 @@
       - https://docs.docker.com/docker-for-windows/install/
     - 도커 툴박스 (버전 낮을 경우)
       - https://docs.docker.com/toolbox/toolbox_install_windows/
+
+
+
