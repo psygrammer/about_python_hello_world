@@ -1,5 +1,9 @@
 # PsychoPy
 
+## 방법 1 - 아나콘다 + jupyter noetebook 환경
+* (구글 번역기 사용하세요) https://qiita.com/mytk0u0/items/8bf1b2c061d454b2ffdc
+
+## 방법 2 - docker 이용
 * 설치 공통 정보 참조 후 아래를 진행. - https://github.com/psygrammer/about_python_hello_world/blob/master/README.md
 
 터미널에서 현재 저장소 코드를 다운 받은 후, about_python_hello_world/psychopy/docker 폴더로 이동. 그리고 아래의 명령 실행.
